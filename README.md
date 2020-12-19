@@ -1,5 +1,5 @@
 # java-operators
-## In this ripo i have stored some come to demonstrate the operators in java.
+## In this ripo i have stored some example to demonstrate the operators in java.
 * Some Operators like 
   * Bitwise Operator
   * Unary Operator
